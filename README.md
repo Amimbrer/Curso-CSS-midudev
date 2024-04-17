@@ -1,3 +1,3 @@
-Curso de CSS gratuito para ver algunas cosas de CSS que no recordaba, ver nuevas actualizaciones de las nuevas versiones de CSS3, ver buenas prácticas que quizás no supiera, etc
+Curso de CSS gratuito para recordar grid, ya que no lo suelo utilizar pero es esencial para el diseño responsive
 
-https://www.youtube.com/watch?v=hrxjBqZWsb0
+https://www.youtube.com/watch?v=iTjkiI8QQsM&t=12s&pp=ygURY3Vyc28gY3NzIG1pZHVkZXY%3D
